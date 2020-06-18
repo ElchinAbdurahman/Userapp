@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Majnun Abdurahmanov",
+      "salary": "9000",
+      "department": "Computer Science",
+      "job": "Software Engineer",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Elmar Nasrullayev",
+      "department": "Graphic Designer",
+      "job": "Graphic Designer",
+      "salary": 5000
+    },
+    {
+      "name": "Elchin Abdurahmanov",
+      "department": "Web Design",
+      "job": "Frontend Developer",
+      "salary": "7000",
+      "id": 3
+    },
+    {
+      "name": "Ceyhun Buzuyev",
+      "department": "Marketing",
+      "job": "Sales Manager",
+      "salary": "6000",
+      "id": 4
+    }
+  ]
+}
